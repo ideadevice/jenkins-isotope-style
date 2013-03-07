@@ -5,7 +5,8 @@ body {
   background: -webkit-linear-gradient(top, #63818a 0%, #73939b 100%);
   background: -o-linear-gradient(top, #63818a 0%, #73939b 100%);
   background: -ms-linear-gradient(top, #63818a 0%, #73939b 100%);
-  background: linear-gradient(top, #63818a 0%, #73939b 100%); }
+  background: linear-gradient(top, #63818a 0%, #73939b 100%);
+  font-family: "Nobile Regular","Segoe UI", Candara, "Bitstream Vera Sans", "DejaVu Sans", "Bitstream Vera Sans", "Trebuchet MS", Verdana, "Verdana Ref", sans-serif !important; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #4f7b94; }
