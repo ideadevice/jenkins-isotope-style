@@ -1,5 +1,5 @@
 # Copy the styles from the master branch to the gh-pages branch
-`mkdir /tmp/jenkins-isotope-style`
+`mkdir -p /tmp/jenkins-isotope-style`
 `cp *.css /tmp/jenkins-isotope-style`
 `git checkout gh-pages`
 `git fetch origin`
